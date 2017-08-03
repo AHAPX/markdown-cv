@@ -3,7 +3,7 @@
 
 Links:
 
-- <a href="sendmail:durneviv@gmail.com" target="_blank">Send email</a>
+- <a href="mailto:durneviv@gmail.com" target="_blank">Send email</a>
 - <a href="https://linkedin.com/in/ivandurnev" target="_blank">Linked in</a>
 - <a href="https://github.com/AHAPX/" target="_blank">Github</a>
 
