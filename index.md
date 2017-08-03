@@ -68,6 +68,14 @@ Expert: sql, django, sqlalchemy, flask, celery, xpath, jQuery, ajax, angularJS, 
 Professional: tornado, twisted, py.test, rabbitMQ, protractor, unity3D
 Have experience: pyBrain, neuralab, Qt, GAP, AWS
 
+
+## Languages
+
+- Russian (native)
+- English (fluent)
+- Esperanto (intermediate)
+- Thai (basic)
+
 <!-- ### Footer
 
 Last updated: Aug 2017 -->
