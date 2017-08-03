@@ -3,9 +3,9 @@
 
 Links:
 
-- <a href="sendmail:durneviv@gmail.com">Send email</a>
-- <a href="https://linkedin.com/in/ivandurnev">Linked in</a>
-- <a href="https://github.com/AHAPX/">Github</a>
+- <a href="sendmail:durneviv@gmail.com" target="_blank">Send email</a>
+- <a href="https://linkedin.com/in/ivandurnev" target="_blank">Linked in</a>
+- <a href="https://github.com/AHAPX/" target="_blank">Github</a>
 
 
 ## Education
@@ -18,7 +18,7 @@ Institute of Mathematics, Information Technology
 
 ## Occupation
 
-`2015 - current` <a href="https://dark-chess.com">__DarkChess__</a>
+`2015 - current` <a href="https://dark-chess.com" target="_blank">__DarkChess__</a>
 
 my own project, made it alone from scratch
 
@@ -27,22 +27,22 @@ my own project, made it alone from scratch
 __FutureResources__
 
 aison is web-app-contructor of another web-apps
-<a href="https://temp.aison.tech/">aison.tech</a>
+<a href="https://temp.aison.tech/" target="_blank">aison.tech</a>
 
 `2015`
-<a href="http://smyt.ru/">__SMYT__</a>
+<a href="http://smyt.ru/" target="_blank">__SMYT__</a>
 
 development 6 small and middle size web-projects and 1 big system with full workflow of micro-credit organization
 
 > projects are corporative and not accessable without vpn
 
 `2012 - 2014`
-<a href="http://e-intelligence.ru/">__QDrops__</a>
+<a href="http://e-intelligence.ru/" target="_blank">__QDrops__</a>
 
-<a href="https://sorge.pro">sorge.pro</a> is web-app to watch for sites activity. could be useful for spying competitor's sites or watching any changes on own site
+<a href="https://sorge.pro" target="_blank">sorge.pro</a> is web-app to watch for sites activity. could be useful for spying competitor's sites or watching any changes on own site
 
 `2013 - 2014`
-<a href="http://whiteteam.ru/">__Whiteteam__</a>
+<a href="http://whiteteam.ru/" target="_blank">__Whiteteam__</a>
 
 development of event and places driven social network
 
