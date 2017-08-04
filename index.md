@@ -51,21 +51,28 @@ development of event and places driven social network
 
 #### Programming languages:
 Expert: python, javascript, scheme lisp, c#
+
 Professional: pascal, bash, php
+
 Have experience: c, objective-c, perl, c++, powershell, delphi, nodejs, octave, R
 
 #### Operation systems:
 Expert: linux(debian, redhat, gentoo), MacOS, windows
+
 Professional: android, ios
 
 #### Databases:
 Expert: postgreSQL, MS SQL, mongoDB, redis
+
 Professional: mySQL, SQLite
+
 Have experience: oracle, firebird
 
 #### Libraries/technologies/frameworks/tools:
 Expert: sql, django, sqlalchemy, flask, celery, xpath, jQuery, ajax, angularJS, html, css, bootstrap, nginx, selenium
+
 Professional: tornado, twisted, py.test, rabbitMQ, protractor, unity3D
+
 Have experience: pyBrain, neuralab, Qt, GAP, AWS
 
 
