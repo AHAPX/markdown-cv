@@ -18,7 +18,7 @@ Institute of Mathematics, Information Technology
 
 ## Occupation
 
-`2017 - current` Arbitr
+`2017 - current` __Arbitr__
 
 my own project, made it alone from scratch.
 
@@ -82,9 +82,9 @@ Have experience: pyBrain, neuralab, Qt, GAP, AWS
 
 - Russian (native)
 - English (fluent)
+- Thai (intermediate)
 - Esperanto (intermediate)
-- Thai (basic)
 
 <!-- ### Footer
 
-Last updated: Aug 2017 -->
+Last updated: Feb 2019 -->
