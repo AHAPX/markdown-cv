@@ -18,9 +18,11 @@ Institute of Mathematics, Information Technology
 
 ## Occupation
 
-`2015 - current` <a href="https://dark-chess.com" target="_blank">__DarkChess__</a>
+`2017 - current` Arbitr
 
-my own project, made it alone from scratch
+my own project, made it alone from scratch.
+
+crypto currencies trading terminal, that does arbitration between different markets and coins
 
 
 `2015 - 2017`
