@@ -1,5 +1,5 @@
 # Durnev Ivan
-### Senior developer
+### Senior/Team lead full stack developer
 
 Links:
 
@@ -18,18 +18,50 @@ Institute of Mathematics, Information Technology
 
 ## Occupation
 
-`2017 - current` __Arbitr__
+`2018 - current` __Arbitr__
 
-my own project, made it alone from scratch.
+My own project, made it alone from scratch.
 
-crypto currencies trading terminal, that does arbitration between different markets and coins
+Crypto currencies trading terminal, that does arbitration between different markets and coins.
 
+__Technologies:__ python3.6, django2.1, django-rest-framework, postgresql, redis, celery, nginx, reactJS16.4.1, docker-compose
+
+__Implementation:__ 
+
+- collecting rates of trading pairs from 23 crypto markets
+- analytic system to define the most profitable pairs and markets
+- automatic trading, which collects rates from all required markets and if there is potential profitable deals runs trading process for pairs market(BX-HitBTC)/pair(ETH-BTC)
+- interface to see results of trading: detailed data of trades, profit for trades and periods
+- manual and automatic transfer coins between markets
+
+`01.2018 - 05.2018`
+__TMA__
+
+Website for British loan agencies to approve loans for customers.
+
+__Technologies:__ python3.6, django2.0, django-rest-framework, postgresql, nginx, angularJS, docker-compose
+
+__Implementation:__
+
+- connector to CallCredit which accepts full customer's data and returns credit history, bank accounts, credit score and etc
+- interface for agencies to add customer and get available credit amount
+- if credit is approved, user receives sms with link to finish loan process. It's bunch of forms to fill with his personal data (house, family, job, etc). In the end customer signs the contract using EchoSign API
 
 `2015 - 2017`
 __FutureResources__
 
-aison is web-app-contructor of another web-apps
-<a href="https://temp.aison.tech/" target="_blank">aison.tech</a>
+<a href="https://temp.aison.tech/" target="_blank">Aison</a> is web-app-contructor of another web-apps
+
+__Technologies:__ python3.6, flask, postgresql, redis, huey, nginx, angularJS, docker-compose
+
+__Implementation:__
+
+- frontend interface to create and modify application, that has fields of different types (text, number, image, url, etc), actions to make some acts with fields, forms to edit and view fields, views which consists forms, design styles based on css
+- template's built-in language based on jinja2 for fields
+- a lot of action's types: accept payments with PayPal and bitcoins, get and post data via API from any web-app, generate pdf files, etc)
+- app's owner can share views with another users and give them different permissions
+- public views can be embedded on any website by special js script. css styles let forms look like they are part of website
+- schedule to run actions periodically or on time
 
 `2015`
 <a href="http://smyt.ru/" target="_blank">__SMYT__</a>
